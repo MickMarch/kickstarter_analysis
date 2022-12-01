@@ -12,7 +12,7 @@ Using a stacked column visualization of the data, we get a broad look at the out
 
 ![parent_category_outcomes](/chart_images/parent_category_outcomes.png)
 
-It's very interesting to see **Theatre** taking the lead in volume of campaigns started. Also upon first look, it looks that **Music** seems to have the most successful of **Outcomes**.
+It's very interesting to see **Theatre** taking the lead in volume of campaigns started. Also upon first look, it looks that **Music** seems to have the most successful distribution of **Outcomes**.
 
 ---
 
