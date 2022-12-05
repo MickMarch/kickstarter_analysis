@@ -26,7 +26,7 @@ I created a pivotchart of the data that groups the data by **Category** and then
 
 It's interesting to see **Theatre** taking the lead in volume of campaigns started. Also upon first look, it looks that **Music** seems to have the most successful distribution of **Outcomes**.
   
-  
+  ---
   
 ### Visualization of Outcomes by Subcategory
 
@@ -40,7 +40,7 @@ Continuing with the stacked column visualization, let's take a more detailed loo
 
 It seems that **Plays** take the lead in **Subcategory** volume of campaigns. If you look through this chart, you can see that a few subcategories have seemingly 100% successful **Outcomes**. That data could be interesting to explore at another time...
   
-  
+  ---
   
 ## Analysis and Challenges
 
@@ -58,7 +58,7 @@ I filtered the information to only include campaigns from the **Theatre** catego
 
 This visualization shows that when considering launch date, the highest count of Theatre campaigns with succcessful outcomes belongs to the group with launch dates in the month of May - with more than double the amount of failed outcomes of the same group. It also shows that Theatre based campaigns launched in the month of December will yield almost an equal amount of successful and failed campaigns.
   
-  
+  ---
   
 ### Analysis of Outcomes Based on Goals ("Plays" Subcategory)
 
@@ -72,9 +72,9 @@ I filtered the information to only include campaigns from the **Plays** subcateg
 
 This chart shows that play campaigns with goal amounts that are less than $5000 have a much higher chance of succeeding than failing. Once the goal amount starts to rise, the chance of succeeding declines. This chart shows that there were more successful outcomes than failures with goal amounts between $35,000 and $45,000. Higher than that, and the odds for success plummet. Not impossible at higher goal amounts but the history doesn't show that it is a safe bet.
   
+  ---
   
-  
-### Challenges and Difficulties Encountered
+## Challenges and Difficulties Encountered
 
 There was one small, subtle, and analysis-ruining mistake I caused for myself. Using the COUNTIFS() function for the **Outcomes of Plays Subcategory Based on Goals** was simple and intuitive, but... if you point to the wrong column for the function, you surprisingly get a very incorrect analysis. It was a mistake that made me scratch my head for half an hour as I tried to find where things were going wrong. It was slightly humbling to realize that the reason was due to a wrong column reference, and I needed that humility. 
   
