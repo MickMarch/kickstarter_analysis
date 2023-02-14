@@ -2,7 +2,7 @@
 
 ## Overview of Project
   
-
+  
 ### Purpose
 
 The purpose of this is project to analyze data from Kickstarter campaigns, to uncover trends in the successes and failures of campaigns. This project is going to be focused on finding patterns in the successes and failures in the **Theatre** Category and **Plays** subcategory, with the specific goals of analysing the following:
@@ -10,17 +10,6 @@ The purpose of this is project to analyze data from Kickstarter campaigns, to un
 * Outcomes based on Launch Date (Focus on the **Theatre** category)
 * Outcomes based on Goals (Focus on the **Plays** subcategory)
   
-<<<<<<< HEAD
-  
-  
-### References and Limitations
-
-* All data used: [Kickstarter Data](/Kickstarter_challenge.xlsx).
-* The following analyses are limited to a data set of campaigns with launch dates between **2009-05-17** and **2017-03-15**
-
-
-=======
->>>>>>> 0f0d993e63583db8e67becf101293408bf11ab92
 
 ## Initial Familiarization with Data
   
